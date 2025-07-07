@@ -63,7 +63,7 @@ Sou desenvolvedor fullstack especializado em TypeScript, com experiência sólid
 
 <!-- Snake animation de contribuições -->
 <p align="center">
-  <img src="https://github.com/vinniciusolliveiracostaa/vinniciusolliveiracostaa/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/vinniciusolliveiracostaa/vinniciusolliveiracostaa/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
 </p>
 
 ---
