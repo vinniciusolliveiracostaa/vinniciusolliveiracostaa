@@ -51,6 +51,8 @@ Sou desenvolvedor fullstack especializado em TypeScript, com experiência sólid
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=fff)
 ![NATS](https://img.shields.io/badge/NATS-48b0f7?style=flat-square)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=fff)
+![GO](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=fff)
+![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=000)
 
 ---
 
@@ -70,7 +72,7 @@ Sou desenvolvedor fullstack especializado em TypeScript, com experiência sólid
 
 ## 📫 Contato
 
-- Email: vinniciusolliveiracostaa@outlook.com  
+- Email: vinnicius.olliveira.costaa@outlook.com.br 
 - LinkedIn: [Vinicius Oliveira](https://www.linkedin.com/in/vinniciusolliveiracostaa/)
 
 ---
