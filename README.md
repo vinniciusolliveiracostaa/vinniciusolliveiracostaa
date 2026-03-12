@@ -1,82 +1,226 @@
-<!-- Banner animado ou imagem (opcional) -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=Olá,%20Eu%20sou%20o%20Vinnicius!&fontSize=32&fontColor=fff&animation=fadeIn" alt="Banner"/>
-</p>
+<div align="center">
 
-<h1 align="center">Desenvolvedor Fullstack | TypeScript, NestJS, NextJS, Microsserviços</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0078d4&height=120&section=header" width="100%" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vinniciusolliveiracostaa/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:vinniciusolliveiracostaa@outlook.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://instagram.com/vinniciusolliveiracostaa"><img src="https://img.shields.io/badge/Instagram-@vinniciusolliveiracostaa-833AB4?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=vinniciusolliveiracostaa&style=for-the-badge" alt="profile views" />
-</p>
+# Vinícius Oliveira
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=500&lines=Principal+Software+Architect;Distributed+Systems+Engineer;Building+Scalable+Platforms" alt="Typing SVG" />
 
-## 👨‍💻 Sobre mim
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinniciusolliveiracostaa/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vinniciusolliveiracostaa@outlook.com)
 
-Sou desenvolvedor fullstack especializado em TypeScript, com experiência sólida em arquitetura de microsserviços, mensageria (NATS, Kafka), CI/CD, autenticação e desenvolvimento moderno com NestJS, NextJS, Prisma e TypeORM. Tenho paixão por criar soluções escaláveis, performáticas e de fácil manutenção.
+</div>
 
 ---
 
-## 🚀 Principais Projetos
+## About
 
-### [Plataforma OBG](https://github.com/vinniciusolliveiracostaa/obg-plataforma)
-- **Tecnologias:** TypeScript, NestJS, NextJS, Prisma/TypeORM, NATS, Microsserviços
-- **Resumo:** Plataforma robusta, arquitetura escalável, integração real entre microsserviços e mensageria.
+Specialized in designing and building **distributed systems** and **event-driven architectures** for high-scale SaaS platforms. Focus on architectural decisions that balance technical excellence with business pragmatism.
 
-### [Blog Fullstack Monorepo](https://github.com/vinniciusolliveiracostaa/blog-fullstack)
-- **Tecnologias:** TypeScript, NestJS, NextJS, Monorepo, Microsserviços
-- **Resumo:** Blog em arquitetura monorepo, múltiplos serviços desacoplados, foco em escalabilidade e boas práticas.
-
-### [CI/CD Automatizado](https://github.com/vinniciusolliveiracostaa/ci-cd-automatization)
-- **Tecnologias:** TypeScript, JavaScript, Docker
-- **Resumo:** Automação de pipelines de deploy, integração contínua e entrega contínua.
-
-### [Kafka + NestJS Monorepo](https://github.com/vinniciusolliveiracostaa/kafka-nestjs)
-- **Tecnologias:** NestJS, KafkaJS, Nx Monorepo
-- **Resumo:** Mensageria robusta, orquestração de microsserviços com Kafka.
+**Core Expertise:**
+- Multi-tenant architecture design
+- Event-driven systems (NATS, Kafka)
+- Zero Trust security implementation
+- High-throughput data pipelines
 
 ---
 
-## 🛠️ Tecnologias
+## Technical Stack
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=fff)
-![NextJS](https://img.shields.io/badge/NextJS-000?style=flat-square&logo=next.js&logoColor=fff)
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=fff)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=fff)
-![TypeORM](https://img.shields.io/badge/TypeORM-FFA500?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=fff)
-![NATS](https://img.shields.io/badge/NATS-48b0f7?style=flat-square)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=fff)
-![GO](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=fff)
-![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=000)
+<div align="center">
+
+### ⚛️ Core Languages
+
+![Atom Orbit](https://raw.githubusercontent.com/vinniciusolliveiracostaa/vinniciusolliveiracostaa/output/atom-orbit.svg)
+
+</div>
+
+<div align="center">
+
+### 🔄 Technology Carousel
+
+![Tech Carousel](https://raw.githubusercontent.com/vinniciusolliveiracostaa/vinniciusolliveiracostaa/output/tech-carousel.svg)
+
+</div>
+
+<div align="center">
+
+### 🛠️ Complete Toolset
+
+<details>
+<summary><b>View all technologies and tools</b></summary>
+
+<br>
+
+**Backend Frameworks**
+```
+Fastify • NestJS • Gin • Elysia
+```
+
+**Frontend Frameworks**
+```
+Next.js • SolidJS • Yew
+```
+
+**Databases & ORMs**
+```
+PostgreSQL • Redis • GORM • TypeORM • Prisma • Drizzle
+```
+
+**Message Brokers**
+```
+NATS • Apache Kafka
+```
+
+**Authentication & Authorization**
+```
+Zitadel • Keycloak • CASL • Casbin • Oso
+```
+
+**Infrastructure & DevOps**
+```
+Docker • Linux • AWS • WireGuard • GitHub Actions • Nginx
+```
+
+**Runtimes & Tools**
+```
+Node.js • Bun • Vite • Shell Script
+```
+
+**Styling**
+```
+TailwindCSS • HTML • CSS
+```
+
+</details>
+
+</div>
 
 ---
 
-## 📈 Estatísticas
+## Architecture Principles
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vinniciusolliveiracostaa&show_icons=true&theme=github_dark" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinniciusolliveiracostaa&layout=compact&langs_count=8&theme=github_dark"/>
-</p>
+<table>
+<tr>
+<td width="50%">
 
-<!-- Snake animation de contribuições -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vinniciusolliveiracostaa/vinniciusolliveiracostaa/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
-</p>
+```yaml
+design:
+  - Domain-Driven Design
+  - Clean Architecture
+  - Event Sourcing
+  - CQRS Pattern
+```
+
+</td>
+<td width="50%">
+
+```yaml
+approach:
+  - Architecture First
+  - Explicit Trade-offs
+  - Boring Technology
+  - Operational Excellence
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📫 Contato
+## Selected Work
 
-- Email: vinnicius.olliveira.costaa@outlook.com.br 
-- LinkedIn: [Vinicius Oliveira](https://www.linkedin.com/in/vinniciusolliveiracostaa/)
+<details>
+<summary><b>Multi-Tenant SaaS Platform</b></summary>
+
+<br>
+
+Enterprise governance platform with 7 integrated products under unified identity layer.
+
+**Architecture:**
+```mermaid
+graph LR
+    A[API Gateway] --> B[Identity]
+    A --> C[Core Services]
+    B --> D[(PostgreSQL)]
+    C --> D
+    B --> E[Event Bus]
+    C --> E
+    E --> F[Redis Cache]
+    
+    style A fill:#0078d4,color:#fff
+    style E fill:#27aae1,color:#fff
+```
+
+**Key Decisions:**
+- Modular monolith → microservices evolution path
+- NATS JetStream for event orchestration
+- PostgreSQL with tenant isolation
+- ABAC authorization with dynamic policies
+
+**Metrics:** `p95 < 200ms` | `1000 req/s` | `99.5% uptime`
+
+</details>
+
+<details>
+<summary><b>High-Throughput Data Pipeline</b></summary>
+
+<br>
+
+CSV processing system handling 100k+ rows with zero data loss.
+
+**Architecture:**
+```
+CSV Stream → Chunk Processor → Deduplication (SHA-256)
+     ↓              ↓                    ↓
+Validation → Worker Pool (5) → PostgreSQL (Batch)
+     ↓              ↓                    ↓
+Error Queue → Kafka Events → Progress Tracking
+```
+
+**Key Features:**
+- Streaming ingestion with backpressure
+- Atomic deduplication using content hashing
+- Transactional outbox pattern
+- Automatic retry with exponential backoff
+
+</details>
 
 ---
 
-<div align="center" style="font-size: small;">
-  README customizado com ❤️ — sugestões e colaborações são bem-vindas!
+## GitHub Activity
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinniciusolliveiracostaa&show_icons=true&theme=transparent&title_color=0078d4&text_color=555&icon_color=0078d4&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinniciusolliveiracostaa&layout=compact&theme=transparent&title_color=0078d4&text_color=555&hide_border=true&langs_count=6" />
+
+</div>
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/vinniciusolliveiracostaa/vinniciusolliveiracostaa/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## Contact
+
+For architecture consulting or technical leadership opportunities:
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinniciusolliveiracostaa/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinniciusolliveiracostaa@outlook.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0078d4&height=100&section=footer" width="100%" />
+
 </div>
