@@ -1,0 +1,19 @@
+{
+  "name": "vinnicostaa-profile",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Generated assets for the Vinícius Oliveira GitHub profile README.",
+  "type": "commonjs",
+  "scripts": {
+    "generate:header": "node scripts/generate-header.js",
+    "generate:map": "node scripts/generate-system-map.js",
+    "generate:carousel": "node scripts/generate-carousel.js",
+    "generate": "npm run generate:header && npm run generate:map && npm run generate:carousel",
+    "check:scripts": "node --check scripts/generate-header.js && node --check scripts/generate-system-map.js && node --check scripts/generate-atom.js && node --check scripts/generate-carousel.js && node --check scripts/validate-assets.js",
+    "check:assets": "node scripts/validate-assets.js",
+    "check": "npm run check:scripts && npm run generate && npm run check:assets"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
