@@ -11,7 +11,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinnicostaa/)
 <img src="https://img.shields.io/badge/Discord-vinnicostaa-000?style=flat-square&logo=discord&logoColor=white" alt="Discord: vinnicostaa" />
-[![Email](https://img.shields.io/badge/Email-000?style=flat-square&logo=gmail&logoColor=white)](mailto:vinniciusolliveiracostaa@outlook.com)
+[![Email](https://img.shields.io/badge/Email-000?style=flat-square&logo=gmail&logoColor=white)](mailto:vinnicius.olliveira.costaa@outlook.com.br)
 
 </div>
 
