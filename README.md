@@ -4,7 +4,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinnicostaa/vinnicostaa/output/header.svg" />
-  <img src="https://raw.githubusercontent.com/vinnicostaa/vinnicostaa/output/header.svg" width="100%" alt="Vinícius Oliveira — Software Engineer focused on backend systems, Go, Rust, TypeScript, DevOps, Linux infrastructure, and solutions architecture." />
+  <img src="https://raw.githubusercontent.com/vinnicostaa/vinnicostaa/output/header.svg" width="100%" alt="Vinícius Oliveira — Software Engineer focused on full-stack systems, Go, Rust, TypeScript, DevOps, Linux infrastructure, and solutions architecture." />
 </picture>
 
 <br />
@@ -29,7 +29,7 @@ I identify professionally as **CTO & Founder @dacostatechnologies**, building fr
 
 | Area | Direction |
 |:--|:--|
-| **Backend systems** | APIs, service boundaries, domain modeling, multi-tenant SaaS, transactional workflows, and long-lived platform code. |
+| **Full-Stack systems** | APIs, service boundaries, domain modeling, multi-tenant SaaS, transactional workflows, and long-lived platform code. |
 | **Systems engineering** | Go, Rust, Linux, networking, service runtimes, internal tooling, debugging, and lower-level control. |
 | **Distributed architecture** | Event-driven communication, NATS JetStream, Kafka, asynchronous processing, and reliability trade-offs. |
 | **DevOps & infrastructure** | Linux environments, Docker, CI/CD, deployment automation, observability, reproducible operations, and fault analysis. |
@@ -40,7 +40,7 @@ I identify professionally as **CTO & Founder @dacostatechnologies**, building fr
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinnicostaa/vinnicostaa/output/system-map.svg" />
-  <img src="https://raw.githubusercontent.com/vinnicostaa/vinnicostaa/output/system-map.svg" width="520" alt="System map connecting domain modeling, backend services, infrastructure, observability, security, and developer tooling." />
+  <img src="https://raw.githubusercontent.com/vinnicostaa/vinnicostaa/output/system-map.svg" width="520" alt="System map connecting domain modeling, full-stack services, infrastructure, observability, security, and developer tooling." />
 </picture>
 
 </div>
@@ -48,7 +48,7 @@ I identify professionally as **CTO & Founder @dacostatechnologies**, building fr
 ## Current direction
 
 ```txt
-systems engineering  ->  backend architecture  ->  Linux infrastructure
+systems engineering  ->  full-stack architecture  ->  Linux infrastructure
 Go / Rust            ->  TypeScript platforms   ->  operational tooling
 SolidJS / TanStack   ->  Rsbuild pipelines      ->  product interfaces
 observability        ->  reliability            ->  maintainable boundaries
@@ -59,7 +59,7 @@ observability        ->  reliability            ->  maintainable boundaries
 | Layer | Tools and technologies |
 |:--|:--|
 | **Languages** | TypeScript, Go, Rust, JavaScript |
-| **Backend** | Go services, Rust services, Fastify, Bun, Elysia, Gin, NestJS |
+| **Full-Stack** | Go services, Rust services, Fastify, Bun, Elysia, Gin, NestJS |
 | **Frontend** | SolidJS, TanStack, Rsbuild, TailwindCSS, UnoCSS, React, Next.js |
 | **Data** | PostgreSQL, Redis, Drizzle, GORM, Prisma, TypeORM |
 | **Messaging** | NATS, NATS JetStream, Kafka |
@@ -79,11 +79,11 @@ observability        ->  reliability            ->  maintainable boundaries
 |:--|:--|
 | [`obg-plataforma`](https://github.com/vinnicostaa/obg-plataforma) | A real SaaS platform context involving users, schools, teams, data import, and service-oriented architecture. |
 | [`kafka-nestjs`](https://github.com/vinnicostaa/kafka-nestjs) | Messaging, microservices, KafkaJS, and NestJS in a monorepo-style architecture. |
-| [`blog-fullstack`](https://github.com/vinnicostaa/blog-fullstack) | Full-stack application structure with backend, frontend, and modular product boundaries. |
+| [`blog-fullstack`](https://github.com/vinnicostaa/blog-fullstack) | Full-stack application structure with full-stack, frontend, and modular product boundaries. |
 | [`payment-api`](https://github.com/vinnicostaa/payment-api) | API design for transactional workflows and payment-domain experimentation. |
-| [`go-crud-example`](https://github.com/vinnicostaa/go-crud-example) / [`gin-example`](https://github.com/vinnicostaa/gin-example) | Go backend exploration, HTTP services, runtime ergonomics, and service structure. |
+| [`go-crud-example`](https://github.com/vinnicostaa/go-crud-example) / [`gin-example`](https://github.com/vinnicostaa/gin-example) | Go full-stack exploration, HTTP services, runtime ergonomics, and service structure. |
 
-> Some of my current engineering work is not represented entirely by public repositories. This profile is meant to describe the technical direction behind the work: systems, infrastructure, backend architecture, DevOps, and product platforms.
+> Some of my current engineering work is not represented entirely by public repositories. This profile is meant to describe the technical direction behind the work: systems, infrastructure, full-stack architecture, DevOps, and product platforms.
 
 ## Operating principles
 
@@ -121,7 +121,7 @@ observability        ->  reliability            ->  maintainable boundaries
 
 <div align="center">
 
-**Software Engineer · Backend · DevOps · Solutions Architecture**
+**Software Engineer · Full-Stack · DevOps · Solutions Architecture**
 
 Discord: `vinnicostaa` · LinkedIn: `vinnicostaa`
 
