@@ -3,14 +3,14 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinnicostaa/vinnicostaa/output/header.svg" />
-  <img src="https://raw.githubusercontent.com/vinnicostaa/vinnicostaa/output/header.svg" width="100%" alt="Vinícius Oliveira — Software Engineer focused on full-stack systems, Go, Rust, TypeScript, DevOps, Linux infrastructure, and solutions architecture." />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viniciusoscosta/viniciusoscosta/output/header.svg" />
+  <img src="https://raw.githubusercontent.com/viniciusoscosta/viniciusoscosta/output/header.svg" width="100%" alt="Vinícius Oliveira — Software Engineer focused on full-stack systems, Go, Rust, TypeScript, DevOps, Linux infrastructure, and solutions architecture." />
 </picture>
 
 <br />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinnicostaa/)
-<img src="https://img.shields.io/badge/Discord-vinnicostaa-000?style=flat-square&logo=discord&logoColor=white" alt="Discord: vinnicostaa" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusoscosta/)
+<img src="https://img.shields.io/badge/Discord-viniciusoscosta-000?style=flat-square&logo=discord&logoColor=white" alt="Discord: viniciusoscosta" />
 [![Email](https://img.shields.io/badge/Email-000?style=flat-square&logo=gmail&logoColor=white)](mailto:vinnicius.olliveira.costaa@outlook.com.br)
 
 </div>
@@ -39,8 +39,8 @@ I identify professionally as **CTO & Founder @dacostatechnologies**, building fr
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinnicostaa/vinnicostaa/output/system-map.svg" />
-  <img src="https://raw.githubusercontent.com/vinnicostaa/vinnicostaa/output/system-map.svg" width="520" alt="System map connecting domain modeling, full-stack services, infrastructure, observability, security, and developer tooling." />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viniciusoscosta/viniciusoscosta/output/system-map.svg" />
+  <img src="https://raw.githubusercontent.com/viniciusoscosta/viniciusoscosta/output/system-map.svg" width="520" alt="System map connecting domain modeling, full-stack services, infrastructure, observability, security, and developer tooling." />
 </picture>
 
 </div>
@@ -69,7 +69,7 @@ observability        ->  reliability            ->  maintainable boundaries
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/vinnicostaa/vinnicostaa/output/tech-carousel.svg" width="100%" alt="Technology stack carousel with TypeScript, Go, Rust, Linux, SolidJS, TanStack, Rsbuild, PostgreSQL, NATS, Kafka, Docker, and related tools." />
+<img src="https://raw.githubusercontent.com/viniciusoscosta/viniciusoscosta/output/tech-carousel.svg" width="100%" alt="Technology stack carousel with TypeScript, Go, Rust, Linux, SolidJS, TanStack, Rsbuild, PostgreSQL, NATS, Kafka, Docker, and related tools." />
 
 </div>
 
@@ -77,11 +77,11 @@ observability        ->  reliability            ->  maintainable boundaries
 
 | Repository | What it represents |
 |:--|:--|
-| [`obg-plataforma`](https://github.com/vinnicostaa/obg-plataforma) | A real SaaS platform context involving users, schools, teams, data import, and service-oriented architecture. |
-| [`kafka-nestjs`](https://github.com/vinnicostaa/kafka-nestjs) | Messaging, microservices, KafkaJS, and NestJS in a monorepo-style architecture. |
-| [`blog-fullstack`](https://github.com/vinnicostaa/blog-fullstack) | Full-stack application structure with full-stack, frontend, and modular product boundaries. |
-| [`payment-api`](https://github.com/vinnicostaa/payment-api) | API design for transactional workflows and payment-domain experimentation. |
-| [`go-crud-example`](https://github.com/vinnicostaa/go-crud-example) / [`gin-example`](https://github.com/vinnicostaa/gin-example) | Go full-stack exploration, HTTP services, runtime ergonomics, and service structure. |
+| [`obg-plataforma`](https://github.com/viniciusoscosta/obg-plataforma) | A real SaaS platform context involving users, schools, teams, data import, and service-oriented architecture. |
+| [`kafka-nestjs`](https://github.com/viniciusoscosta/kafka-nestjs) | Messaging, microservices, KafkaJS, and NestJS in a monorepo-style architecture. |
+| [`blog-fullstack`](https://github.com/viniciusoscosta/blog-fullstack) | Full-stack application structure with full-stack, frontend, and modular product boundaries. |
+| [`payment-api`](https://github.com/viniciusoscosta/payment-api) | API design for transactional workflows and payment-domain experimentation. |
+| [`go-crud-example`](https://github.com/viniciusoscosta/go-crud-example) / [`gin-example`](https://github.com/viniciusoscosta/gin-example) | Go full-stack exploration, HTTP services, runtime ergonomics, and service structure. |
 
 > Some of my current engineering work is not represented entirely by public repositories. This profile is meant to describe the technical direction behind the work: systems, infrastructure, full-stack architecture, DevOps, and product platforms.
 
@@ -104,13 +104,13 @@ observability        ->  reliability            ->  maintainable boundaries
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vinnicostaa&show_icons=true&hide_border=true&bg_color=00000000&title_color=e6edf3&text_color=8b949e&icon_color=e6edf3&count_private=true&include_all_commits=true&rank_icon=github" />
-  <img src="https://github-readme-stats.vercel.app/api?username=vinnicostaa&show_icons=true&hide_border=true&bg_color=00000000&title_color=1f2328&text_color=57606a&icon_color=1f2328&count_private=true&include_all_commits=true&rank_icon=github" height="165" alt="GitHub statistics for Vinícius Oliveira" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=viniciusoscosta&show_icons=true&hide_border=true&bg_color=00000000&title_color=e6edf3&text_color=8b949e&icon_color=e6edf3&count_private=true&include_all_commits=true&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=viniciusoscosta&show_icons=true&hide_border=true&bg_color=00000000&title_color=1f2328&text_color=57606a&icon_color=1f2328&count_private=true&include_all_commits=true&rank_icon=github" height="165" alt="GitHub statistics for Vinícius Oliveira" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vinnicostaa&layout=compact&hide_border=true&bg_color=00000000&title_color=e6edf3&text_color=8b949e&langs_count=6&card_width=300" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinnicostaa&layout=compact&hide_border=true&bg_color=00000000&title_color=1f2328&text_color=57606a&card_width=300&langs_count=6" height="165" alt="Most used public repository languages for Vinícius Oliveira" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusoscosta&layout=compact&hide_border=true&bg_color=00000000&title_color=e6edf3&text_color=8b949e&langs_count=6&card_width=300" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusoscosta&layout=compact&hide_border=true&bg_color=00000000&title_color=1f2328&text_color=57606a&card_width=300&langs_count=6" height="165" alt="Most used public repository languages for Vinícius Oliveira" />
 </picture>
 
 </div>
@@ -123,7 +123,7 @@ observability        ->  reliability            ->  maintainable boundaries
 
 **Software Engineer · Full-Stack · DevOps · Solutions Architecture**
 
-Discord: `vinnicostaa` · LinkedIn: `vinnicostaa`
+Discord: `viniciusoscosta` · LinkedIn: `viniciusoscosta`
 
 <sub>The reality blinked. I blinked back. — Brazilian 🇧🇷</sub>
 
