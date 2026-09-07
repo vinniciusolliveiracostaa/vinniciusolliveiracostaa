@@ -1,0 +1,92 @@
+<svg
+  width="960"
+  height="260"
+  viewBox="0 0 960 260"
+  xmlns="http://www.w3.org/2000/svg"
+  role="img"
+  aria-label="Vinícius Oliveira — Software Engineer focused on backend systems, Go, Rust, TypeScript, DevOps, Linux infrastructure, and solutions architecture."
+>
+  <defs>
+    <style>
+      .surface { fill: #fafafa; }
+      .chrome { fill: #f3f4f6; }
+      .border { fill: none; stroke: #d4d4d4; stroke-width: 1; }
+      .divider { stroke: #d4d4d4; stroke-width: 1; }
+      .title { fill: #737373; font-size: 12px; letter-spacing: 0.02em; }
+      .prompt { fill: #525252; }
+      .main { fill: #171717; }
+      .muted { fill: #737373; }
+      .cursor { fill: #171717; }
+      .dot { fill: #171717; opacity: 0.85; }
+      .mono { font-family: 'JetBrains Mono', 'SFMono-Regular', 'Cascadia Code', 'Fira Code', Consolas, monospace; }
+      .line { dominant-baseline: alphabetic; }
+
+      @keyframes cursor-blink {
+        0%, 48% { opacity: 1; }
+        49%, 100% { opacity: 0; }
+      }
+
+      .cursor { animation: cursor-blink 1s step-start 2.8s infinite; opacity: 0; }
+
+      @media (prefers-color-scheme: dark) {
+        .surface { fill: #0d1117; }
+        .chrome { fill: #161b22; }
+        .border { stroke: #30363d; }
+        .divider { stroke: #30363d; }
+        .title { fill: #8b949e; }
+        .prompt { fill: #8b949e; }
+        .main { fill: #e6edf3; }
+        .muted { fill: #6e7681; }
+        .cursor { fill: #e6edf3; }
+        .dot { fill: #e6edf3; opacity: 0.85; }
+      }
+
+      @media (prefers-reduced-motion: reduce) {
+        .cursor { animation: none; opacity: 1; }
+      }
+    </style>
+  </defs>
+
+  <rect class="surface" x="0.5" y="0.5" width="959" height="259" rx="14"/>
+  <rect class="chrome" x="0.5" y="0.5" width="959" height="42" rx="14"/>
+  <rect class="chrome" x="0.5" y="30" width="959" height="13"/>
+  <rect class="border" x="0.5" y="0.5" width="959" height="259" rx="14"/>
+  <line class="divider" x1="0" y1="43" x2="960" y2="43"/>
+
+  <circle class="dot" cx="24" cy="22" r="5"/>
+  <circle class="dot" cx="42" cy="22" r="5" opacity="0.55"/>
+  <circle class="dot" cx="60" cy="22" r="5" opacity="0.3"/>
+
+  <text class="mono title" x="480" y="27" text-anchor="middle">vinnicostaa · github / linkedin / discord · platform / systems / infrastructure</text>
+
+  
+  <text class="mono line" x="32" y="72" font-size="13">
+    <tspan class="prompt">$ </tspan><tspan class="main">whoami</tspan>
+  </text>
+  <text class="mono line" x="32" y="90" font-size="13">
+    <tspan class="muted">=&gt; </tspan><tspan class="main">Vinícius Oliveira · Software Engineer · Backend · DevOps · Solutions Architecture</tspan>
+  </text>
+
+  <text class="mono line" x="32" y="114" font-size="13">
+    <tspan class="prompt">$ </tspan><tspan class="main">cat focus.txt</tspan>
+  </text>
+  <text class="mono line" x="32" y="132" font-size="13">
+    <tspan class="muted">=&gt; </tspan><tspan class="main">Distributed systems · Linux infrastructure · Domain modeling · Observability</tspan>
+  </text>
+
+  <text class="mono line" x="32" y="156" font-size="13">
+    <tspan class="prompt">$ </tspan><tspan class="main">./build-platform</tspan>
+  </text>
+  <text class="mono line" x="32" y="174" font-size="13">
+    <tspan class="muted">=&gt; </tspan><tspan class="main">TypeScript · Go · Rust as principal engineering stack</tspan>
+  </text>
+
+  <text class="mono line" x="32" y="198" font-size="13">
+    <tspan class="prompt">$ </tspan><tspan class="main">principle --one-line</tspan>
+  </text>
+  <text class="mono line" x="32" y="216" font-size="13">
+    <tspan class="muted">=&gt; </tspan><tspan class="main">Understand the system before abstracting it.</tspan>
+  </text>
+
+  <text class="mono cursor" x="32" y="238" font-size="13">▌</text>
+</svg>

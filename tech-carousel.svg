@@ -1,0 +1,249 @@
+<svg
+  width="960"
+  height="72"
+  viewBox="0 0 960 72"
+  xmlns="http://www.w3.org/2000/svg"
+  role="img"
+  aria-label="Technology stack carousel: TypeScript, Go, Rust, Linux, SolidJS, TanStack, Rsbuild, PostgreSQL, NATS JetStream, Kafka, Docker, and related tools."
+>
+  <defs>
+    <style>
+      .bg { fill: #ffffff; }
+      .pill { fill: #fafafa; stroke: #d4d4d4; stroke-width: 1; }
+      .pill-text { fill: #404040; font-size: 12px; font-weight: 600; letter-spacing: 0.01em; }
+      .fade-light { display: inline; }
+      .fade-dark { display: none; }
+      .mono { font-family: 'JetBrains Mono', 'SFMono-Regular', 'Cascadia Code', 'Fira Code', Consolas, monospace; }
+
+      @keyframes scroll {
+        from { transform: translateX(0); }
+        to { transform: translateX(-2424px); }
+      }
+
+      .track { animation: scroll 43s linear infinite; }
+
+      @media (prefers-color-scheme: dark) {
+        .bg { fill: #0d1117; }
+        .pill { fill: #0d1117; stroke: #30363d; }
+        .pill-text { fill: #b0b8c3; }
+        .fade-light { display: none; }
+        .fade-dark { display: inline; }
+      }
+
+      @media (prefers-reduced-motion: reduce) {
+        .track { animation: none; }
+      }
+    </style>
+
+    <clipPath id="clip">
+      <rect width="960" height="72" rx="0"/>
+    </clipPath>
+
+    <linearGradient id="fade-left-light" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.96"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="fade-right-light" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.96"/>
+    </linearGradient>
+    <linearGradient id="fade-left-dark" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0d1117" stop-opacity="0.96"/>
+      <stop offset="1" stop-color="#0d1117" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="fade-right-dark" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0d1117" stop-opacity="0"/>
+      <stop offset="1" stop-color="#0d1117" stop-opacity="0.96"/>
+    </linearGradient>
+  </defs>
+
+  <rect class="bg" width="960" height="72"/>
+
+  <g clip-path="url(#clip)">
+    <g class="track">
+      
+      <g transform="translate(0, 19)">
+        <rect class="pill" width="114" height="34" rx="17"/>
+        <text class="mono pill-text" x="57" y="17.5" text-anchor="middle" dominant-baseline="middle">TypeScript</text>
+      </g>
+      <g transform="translate(128, 19)">
+        <rect class="pill" width="88" height="34" rx="17"/>
+        <text class="mono pill-text" x="44" y="17.5" text-anchor="middle" dominant-baseline="middle">Go</text>
+      </g>
+      <g transform="translate(230, 19)">
+        <rect class="pill" width="88" height="34" rx="17"/>
+        <text class="mono pill-text" x="44" y="17.5" text-anchor="middle" dominant-baseline="middle">Rust</text>
+      </g>
+      <g transform="translate(332, 19)">
+        <rect class="pill" width="88" height="34" rx="17"/>
+        <text class="mono pill-text" x="44" y="17.5" text-anchor="middle" dominant-baseline="middle">Linux</text>
+      </g>
+      <g transform="translate(434, 19)">
+        <rect class="pill" width="90" height="34" rx="17"/>
+        <text class="mono pill-text" x="45" y="17.5" text-anchor="middle" dominant-baseline="middle">SolidJS</text>
+      </g>
+      <g transform="translate(538, 19)">
+        <rect class="pill" width="98" height="34" rx="17"/>
+        <text class="mono pill-text" x="49" y="17.5" text-anchor="middle" dominant-baseline="middle">TanStack</text>
+      </g>
+      <g transform="translate(650, 19)">
+        <rect class="pill" width="90" height="34" rx="17"/>
+        <text class="mono pill-text" x="45" y="17.5" text-anchor="middle" dominant-baseline="middle">Rsbuild</text>
+      </g>
+      <g transform="translate(754, 19)">
+        <rect class="pill" width="114" height="34" rx="17"/>
+        <text class="mono pill-text" x="57" y="17.5" text-anchor="middle" dominant-baseline="middle">PostgreSQL</text>
+      </g>
+      <g transform="translate(882, 19)">
+        <rect class="pill" width="88" height="34" rx="17"/>
+        <text class="mono pill-text" x="44" y="17.5" text-anchor="middle" dominant-baseline="middle">Redis</text>
+      </g>
+      <g transform="translate(984, 19)">
+        <rect class="pill" width="146" height="34" rx="17"/>
+        <text class="mono pill-text" x="73" y="17.5" text-anchor="middle" dominant-baseline="middle">NATS JetStream</text>
+      </g>
+      <g transform="translate(1144, 19)">
+        <rect class="pill" width="88" height="34" rx="17"/>
+        <text class="mono pill-text" x="44" y="17.5" text-anchor="middle" dominant-baseline="middle">Kafka</text>
+      </g>
+      <g transform="translate(1246, 19)">
+        <rect class="pill" width="88" height="34" rx="17"/>
+        <text class="mono pill-text" x="44" y="17.5" text-anchor="middle" dominant-baseline="middle">Docker</text>
+      </g>
+      <g transform="translate(1348, 19)">
+        <rect class="pill" width="90" height="34" rx="17"/>
+        <text class="mono pill-text" x="45" y="17.5" text-anchor="middle" dominant-baseline="middle">Fastify</text>
+      </g>
+      <g transform="translate(1452, 19)">
+        <rect class="pill" width="88" height="34" rx="17"/>
+        <text class="mono pill-text" x="44" y="17.5" text-anchor="middle" dominant-baseline="middle">Bun</text>
+      </g>
+      <g transform="translate(1554, 19)">
+        <rect class="pill" width="88" height="34" rx="17"/>
+        <text class="mono pill-text" x="44" y="17.5" text-anchor="middle" dominant-baseline="middle">Elysia</text>
+      </g>
+      <g transform="translate(1656, 19)">
+        <rect class="pill" width="88" height="34" rx="17"/>
+        <text class="mono pill-text" x="44" y="17.5" text-anchor="middle" dominant-baseline="middle">Gin</text>
+      </g>
+      <g transform="translate(1758, 19)">
+        <rect class="pill" width="90" height="34" rx="17"/>
+        <text class="mono pill-text" x="45" y="17.5" text-anchor="middle" dominant-baseline="middle">Drizzle</text>
+      </g>
+      <g transform="translate(1862, 19)">
+        <rect class="pill" width="88" height="34" rx="17"/>
+        <text class="mono pill-text" x="44" y="17.5" text-anchor="middle" dominant-baseline="middle">GORM</text>
+      </g>
+      <g transform="translate(1964, 19)">
+        <rect class="pill" width="90" height="34" rx="17"/>
+        <text class="mono pill-text" x="45" y="17.5" text-anchor="middle" dominant-baseline="middle">Zitadel</text>
+      </g>
+      <g transform="translate(2068, 19)">
+        <rect class="pill" width="88" height="34" rx="17"/>
+        <text class="mono pill-text" x="44" y="17.5" text-anchor="middle" dominant-baseline="middle">Casbin</text>
+      </g>
+      <g transform="translate(2170, 19)">
+        <rect class="pill" width="88" height="34" rx="17"/>
+        <text class="mono pill-text" x="44" y="17.5" text-anchor="middle" dominant-baseline="middle">CI/CD</text>
+      </g>
+      <g transform="translate(2272, 19)">
+        <rect class="pill" width="138" height="34" rx="17"/>
+        <text class="mono pill-text" x="69" y="17.5" text-anchor="middle" dominant-baseline="middle">Observability</text>
+      </g>
+      
+      <g transform="translate(2424, 19)">
+        <rect class="pill" width="114" height="34" rx="17"/>
+        <text class="mono pill-text" x="57" y="17.5" text-anchor="middle" dominant-baseline="middle">TypeScript</text>
+      </g>
+      <g transform="translate(2552, 19)">
+        <rect class="pill" width="88" height="34" rx="17"/>
+        <text class="mono pill-text" x="44" y="17.5" text-anchor="middle" dominant-baseline="middle">Go</text>
+      </g>
+      <g transform="translate(2654, 19)">
+        <rect class="pill" width="88" height="34" rx="17"/>
+        <text class="mono pill-text" x="44" y="17.5" text-anchor="middle" dominant-baseline="middle">Rust</text>
+      </g>
+      <g transform="translate(2756, 19)">
+        <rect class="pill" width="88" height="34" rx="17"/>
+        <text class="mono pill-text" x="44" y="17.5" text-anchor="middle" dominant-baseline="middle">Linux</text>
+      </g>
+      <g transform="translate(2858, 19)">
+        <rect class="pill" width="90" height="34" rx="17"/>
+        <text class="mono pill-text" x="45" y="17.5" text-anchor="middle" dominant-baseline="middle">SolidJS</text>
+      </g>
+      <g transform="translate(2962, 19)">
+        <rect class="pill" width="98" height="34" rx="17"/>
+        <text class="mono pill-text" x="49" y="17.5" text-anchor="middle" dominant-baseline="middle">TanStack</text>
+      </g>
+      <g transform="translate(3074, 19)">
+        <rect class="pill" width="90" height="34" rx="17"/>
+        <text class="mono pill-text" x="45" y="17.5" text-anchor="middle" dominant-baseline="middle">Rsbuild</text>
+      </g>
+      <g transform="translate(3178, 19)">
+        <rect class="pill" width="114" height="34" rx="17"/>
+        <text class="mono pill-text" x="57" y="17.5" text-anchor="middle" dominant-baseline="middle">PostgreSQL</text>
+      </g>
+      <g transform="translate(3306, 19)">
+        <rect class="pill" width="88" height="34" rx="17"/>
+        <text class="mono pill-text" x="44" y="17.5" text-anchor="middle" dominant-baseline="middle">Redis</text>
+      </g>
+      <g transform="translate(3408, 19)">
+        <rect class="pill" width="146" height="34" rx="17"/>
+        <text class="mono pill-text" x="73" y="17.5" text-anchor="middle" dominant-baseline="middle">NATS JetStream</text>
+      </g>
+      <g transform="translate(3568, 19)">
+        <rect class="pill" width="88" height="34" rx="17"/>
+        <text class="mono pill-text" x="44" y="17.5" text-anchor="middle" dominant-baseline="middle">Kafka</text>
+      </g>
+      <g transform="translate(3670, 19)">
+        <rect class="pill" width="88" height="34" rx="17"/>
+        <text class="mono pill-text" x="44" y="17.5" text-anchor="middle" dominant-baseline="middle">Docker</text>
+      </g>
+      <g transform="translate(3772, 19)">
+        <rect class="pill" width="90" height="34" rx="17"/>
+        <text class="mono pill-text" x="45" y="17.5" text-anchor="middle" dominant-baseline="middle">Fastify</text>
+      </g>
+      <g transform="translate(3876, 19)">
+        <rect class="pill" width="88" height="34" rx="17"/>
+        <text class="mono pill-text" x="44" y="17.5" text-anchor="middle" dominant-baseline="middle">Bun</text>
+      </g>
+      <g transform="translate(3978, 19)">
+        <rect class="pill" width="88" height="34" rx="17"/>
+        <text class="mono pill-text" x="44" y="17.5" text-anchor="middle" dominant-baseline="middle">Elysia</text>
+      </g>
+      <g transform="translate(4080, 19)">
+        <rect class="pill" width="88" height="34" rx="17"/>
+        <text class="mono pill-text" x="44" y="17.5" text-anchor="middle" dominant-baseline="middle">Gin</text>
+      </g>
+      <g transform="translate(4182, 19)">
+        <rect class="pill" width="90" height="34" rx="17"/>
+        <text class="mono pill-text" x="45" y="17.5" text-anchor="middle" dominant-baseline="middle">Drizzle</text>
+      </g>
+      <g transform="translate(4286, 19)">
+        <rect class="pill" width="88" height="34" rx="17"/>
+        <text class="mono pill-text" x="44" y="17.5" text-anchor="middle" dominant-baseline="middle">GORM</text>
+      </g>
+      <g transform="translate(4388, 19)">
+        <rect class="pill" width="90" height="34" rx="17"/>
+        <text class="mono pill-text" x="45" y="17.5" text-anchor="middle" dominant-baseline="middle">Zitadel</text>
+      </g>
+      <g transform="translate(4492, 19)">
+        <rect class="pill" width="88" height="34" rx="17"/>
+        <text class="mono pill-text" x="44" y="17.5" text-anchor="middle" dominant-baseline="middle">Casbin</text>
+      </g>
+      <g transform="translate(4594, 19)">
+        <rect class="pill" width="88" height="34" rx="17"/>
+        <text class="mono pill-text" x="44" y="17.5" text-anchor="middle" dominant-baseline="middle">CI/CD</text>
+      </g>
+      <g transform="translate(4696, 19)">
+        <rect class="pill" width="138" height="34" rx="17"/>
+        <text class="mono pill-text" x="69" y="17.5" text-anchor="middle" dominant-baseline="middle">Observability</text>
+      </g>
+    </g>
+  </g>
+
+  <rect class="fade-light" x="0" y="0" width="92" height="72" fill="url(#fade-left-light)"/>
+  <rect class="fade-light" x="868" y="0" width="92" height="72" fill="url(#fade-right-light)"/>
+  <rect class="fade-dark" x="0" y="0" width="92" height="72" fill="url(#fade-left-dark)"/>
+  <rect class="fade-dark" x="868" y="0" width="92" height="72" fill="url(#fade-right-dark)"/>
+</svg>

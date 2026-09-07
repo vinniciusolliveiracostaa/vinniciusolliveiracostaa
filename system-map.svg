@@ -1,0 +1,85 @@
+<svg
+  width="760"
+  height="360"
+  viewBox="0 0 760 360"
+  xmlns="http://www.w3.org/2000/svg"
+  role="img"
+  aria-label="System map connecting domain modeling, backend services, data, infrastructure, security, and observability."
+>
+  <defs>
+    <style>
+      .bg { fill: #ffffff; }
+      .connector { stroke: #d4d4d4; stroke-width: 1; stroke-dasharray: 4 5; }
+      .core { fill: #171717; }
+      .core-text { fill: #fafafa; font-size: 14px; font-weight: 700; }
+      .core-sub { fill: #d4d4d4; font-size: 10px; }
+      .node-rect { fill: #fafafa; stroke: #d4d4d4; stroke-width: 1; }
+      .node-label { fill: #171717; font-size: 13px; font-weight: 700; }
+      .node-sub { fill: #737373; font-size: 10px; }
+      .mono { font-family: 'JetBrains Mono', 'SFMono-Regular', 'Cascadia Code', 'Fira Code', Consolas, monospace; }
+
+      @media (prefers-color-scheme: dark) {
+        .bg { fill: #0d1117; }
+        .connector { stroke: #30363d; }
+        .core { fill: #e6edf3; }
+        .core-text { fill: #0d1117; }
+        .core-sub { fill: #30363d; }
+        .node-rect { fill: #0d1117; stroke: #30363d; }
+        .node-label { fill: #e6edf3; }
+        .node-sub { fill: #8b949e; }
+      }
+
+    </style>
+  </defs>
+
+  <rect class="bg" width="760" height="360"/>
+  <line class="connector" x1="380" y1="180" x2="130" y2="84"/>
+  <line class="connector" x1="380" y1="180" x2="380" y2="64"/>
+  <line class="connector" x1="380" y1="180" x2="630" y2="84"/>
+  <line class="connector" x1="380" y1="180" x2="130" y2="276"/>
+  <line class="connector" x1="380" y1="180" x2="380" y2="296"/>
+  <line class="connector" x1="380" y1="180" x2="630" y2="276"/>
+
+  <g>
+    <circle class="core" cx="380" cy="180" r="58"/>
+    <text class="mono core-text" x="380" y="176" text-anchor="middle">Systems</text>
+    <text class="mono core-sub" x="380" y="196" text-anchor="middle">architecture</text>
+  </g>
+
+  
+  <g class="node" transform="translate(44, 52)">
+    <rect class="node-rect" width="172" height="64" rx="10"/>
+    <text class="mono node-label" x="86" y="27" text-anchor="middle">Domain</text>
+    <text class="mono node-sub" x="86" y="45" text-anchor="middle">DDD · CQRS</text>
+  </g>
+
+  <g class="node" transform="translate(294, 32)">
+    <rect class="node-rect" width="172" height="64" rx="10"/>
+    <text class="mono node-label" x="86" y="27" text-anchor="middle">Services</text>
+    <text class="mono node-sub" x="86" y="45" text-anchor="middle">APIs · Events</text>
+  </g>
+
+  <g class="node" transform="translate(544, 52)">
+    <rect class="node-rect" width="172" height="64" rx="10"/>
+    <text class="mono node-label" x="86" y="27" text-anchor="middle">Data</text>
+    <text class="mono node-sub" x="86" y="45" text-anchor="middle">Postgres · Redis</text>
+  </g>
+
+  <g class="node" transform="translate(44, 244)">
+    <rect class="node-rect" width="172" height="64" rx="10"/>
+    <text class="mono node-label" x="86" y="27" text-anchor="middle">Infra</text>
+    <text class="mono node-sub" x="86" y="45" text-anchor="middle">Linux · Docker</text>
+  </g>
+
+  <g class="node" transform="translate(294, 264)">
+    <rect class="node-rect" width="172" height="64" rx="10"/>
+    <text class="mono node-label" x="86" y="27" text-anchor="middle">Security</text>
+    <text class="mono node-sub" x="86" y="45" text-anchor="middle">IAM · Zero Trust</text>
+  </g>
+
+  <g class="node" transform="translate(544, 244)">
+    <rect class="node-rect" width="172" height="64" rx="10"/>
+    <text class="mono node-label" x="86" y="27" text-anchor="middle">Observability</text>
+    <text class="mono node-sub" x="86" y="45" text-anchor="middle">Logs · Metrics</text>
+  </g>
+</svg>
